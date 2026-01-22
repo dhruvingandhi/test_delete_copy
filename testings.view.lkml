@@ -1,6 +1,7 @@
 view: testings {
   #3
   #r
+  #w
   #22
   #ss
   #eeee
