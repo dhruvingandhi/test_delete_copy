@@ -1,4 +1,5 @@
 view: testings {
+  #e
   #3
   #r
   #w
