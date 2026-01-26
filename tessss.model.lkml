@@ -1,6 +1,6 @@
 connection: "bigquery_machine_credentials"
 include: "testings.view"
-
+explore:  testings{}
 #ee
 ##w
 #e
