@@ -2,6 +2,7 @@ connection: "bigquery_machine_credentials"
 include: "testings.view"
 explore:  testings{}
 #ee
+#ee
 ##w
 #e
 #eee
